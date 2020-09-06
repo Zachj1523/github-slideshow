@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Building Blocks of SEO"
+title: "Building-Blocks-SEO"
 ---
 * Social: Social Media, User Engagement and Viral Marketing
 * Content: Quality content, Sitemaps, Quick Loading pages, Accessibility and Usability
