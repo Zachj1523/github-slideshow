@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Elements Impacting SEO"
+title: "Impacting SEO"
 ---
 * Uniform Resource Locators (URL's) are used to specify addresses on the World Wide Web 
 * Title Tags describe the topic and theme of an online document
