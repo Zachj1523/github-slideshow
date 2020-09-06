@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Search Engine Marketing"
+title: "SEM"
 ---
 * Search Engine Marketing focuses on paid search business solutions
 * SEM involves the process ofbuying traffic through paid search listings
