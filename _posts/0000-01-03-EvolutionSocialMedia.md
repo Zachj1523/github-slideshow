@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Evolution Social Media"
+title: "Social Media"
 ---
 
 * LinkedIn is one of the very fist social media websites as well
