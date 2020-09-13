@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Evolution Social Media"
+title: "Social Media"
 ---
 
 * In 2004, Mark Zuckerberg launched Facebook, which is very well known today.
