@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Evolution Social Media"
+title: "Social Media"
 ---
 
 * Today, almost all brands are present on social media.
