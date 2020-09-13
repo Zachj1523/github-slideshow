@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Evolution Social Media"
+title: "Social Media"
 ---
 
 * Although becoming popular in 2003, the first offical social media website can be traced back to 1997 to a site called 'Six Degrees"
